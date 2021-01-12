@@ -1,0 +1,28 @@
+Column name,Description
+liveStreamID,stream unique ID
+beginTime,stream begin time
+endTime,stream end time
+duration,stream duration in sec
+closeBy,How the stream ended
+maxLiveViewerCount,The max number of live viewers at any time during the entire stream
+maxLiveViewerTime,time at which max viewers were live
+privateLiveStream,Whether it is private or public stream
+receivedLikeCount,number of likes received
+streamerType,"streamerType
+0 - LiveStream
+1 - Show
+2 - replay"
+isShow,Shown or not
+cultureGroup,cultureGroup
+userID,unique id of streamer
+registerCountry,streamer register country
+isContracted,streamer is in contract or not
+uniqueViewerCount,Total unique viewer count
+ios,Viewers from ios
+android,Viewers from android
+durationGTE5sec,viewer count who stayed greater than 5 sec
+durationGTE2min,viewer count who stayed greater than 2 min
+durationGTE10min,viewer count who stayed greater than 10 min
+avgViewerDuration,avgViewerDuration
+count,total comment count
+receivePointEstimated,Total Points received.
